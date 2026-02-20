@@ -71,3 +71,25 @@ Commercial use and modification are prohibited.
 
 본 저장소는 CC BY-NC-ND 4.0 라이선스를 따른다.
 상업적 이용 및 수정은 허용되지 않는다.
+---
+
+## 📚 Official KC Works Collection (Canonical Hub)
+
+All officially published records are aggregated here:
+
+KC Works Collection:
+https://hcommons.org/deposits/collections/XXXXXXXX/
+
+This collection includes:
+
+1. Two-Mode AI Execution Architecture (Constitution)  
+   DOI: https://doi.org/10.17605/OSF.IO/AW7SF
+
+2. Structural Closure (English)  
+   DOI: https://doi.org/10.17605/OSF.IO/2893
+
+3. 구조적 닫힘 (Korean)  
+   DOI: https://doi.org/10.17613/hawqv-c1n87
+
+GitHub serves as the implementation and architectural overview layer.  
+KC Works serves as the archival publication record.
