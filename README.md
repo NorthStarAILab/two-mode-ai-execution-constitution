@@ -78,7 +78,7 @@ Commercial use and modification are prohibited.
 All officially published records are aggregated here:
 
 KC Works Collection:
-https://hcommons.org/deposits/collections/XXXXXXXX/
+https://works.hcommons.org/records/xdrf1-ez757
 
 This collection includes:
 
